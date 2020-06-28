@@ -1,2 +1,10 @@
 # ECG-Arrhythmia-Classification
-Contains python code and Dataset for ECG arrhythmia classification into 5 categories
+Python code for ECG arrhythmia classification into 5 categories
+
+The training and test data set can be downloaded from - 
+https://physionet.org/content/mitdb/1.0.0/
+
+
+
+
+
